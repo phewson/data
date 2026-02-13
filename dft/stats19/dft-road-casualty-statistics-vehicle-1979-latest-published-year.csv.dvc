@@ -1,14 +1,15 @@
 outs:
-- md5: d2c07074fd4b8873c64df78fbce5ca0d
-  size: 1574258788
+- md5: fc700de5890c9e4ce2ee79a4a60efba2
+  size: 1987811565
   hash: md5
   path: dft-road-casualty-statistics-vehicle-1979-latest-published-year.csv
   meta:
-    source_url: "https://www.gov.uk/government/statistical-data-sets/road-safety-open-data"
-    download_date: "2024-08-13"
-    publisher: "DfT"
-    license: "OGL v3"
-    timeframe: 1979 to 2022
+    source_url: 
+      https://www.gov.uk/government/statistical-data-sets/road-safety-open-data
+    download_date: '2024-10-14'
+    publisher: DfT
+    license: OGL v3
+    timeframe: 1979 to 2023
     format: csv
-    row_count: 15725817
-    column_count: 28
+    row_count: 15915633
+    column_count: 34

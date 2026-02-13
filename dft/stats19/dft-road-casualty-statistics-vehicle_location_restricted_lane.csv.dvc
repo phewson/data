@@ -1,0 +1,5 @@
+outs:
+- md5: b2f2f3743bfd65623adabd6c7fcbdadd
+  size: 12128
+  hash: md5
+  path: dft-road-casualty-statistics-vehicle_location_restricted_lane.csv

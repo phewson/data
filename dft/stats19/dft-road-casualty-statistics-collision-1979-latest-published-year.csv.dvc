@@ -1,6 +1,6 @@
 outs:
-- md5: fff7b508e13bfeed9050fff23530ad9b
-  size: 1368025617
+- md5: d07189656afdc6f800b57dd0bea1d274
+  size: 1543738754
   hash: md5
   path: dft-road-casualty-statistics-collision-1979-latest-published-year.csv
   meta:
@@ -9,7 +9,15 @@ outs:
     download_date: '2025-10-14'
     publisher: DfT
     license: OGL v3
-    timeframe: 1979 to 2023
+    timeframe: 1979 to 2024
     format: csv
-    row_count: 8914173
-    column_count: 37
+    row_count: 9015100
+    column_count: 44
+md5: f1a1acd92dc57293248e91f41796873b
+frozen: true
+deps:
+- checksum: '323950788267410531526754325311394489553'
+  size: 1543738754
+  hash: md5
+  path: 
+    https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-collision-1979-latest-published-year.csv

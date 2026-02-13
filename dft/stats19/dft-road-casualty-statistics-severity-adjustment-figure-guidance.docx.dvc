@@ -3,3 +3,11 @@ outs:
   size: 18111
   hash: md5
   path: dft-road-casualty-statistics-severity-adjustment-figure-guidance.docx
+md5: a63cb9274aaa0ffd6ddd426815c6ce09
+frozen: true
+deps:
+- checksum: '"691c6440-46bf"'
+  size: 18111
+  hash: md5
+  path: 
+    https://assets.publishing.service.gov.uk/media/691c644021ef5aaa6543eef0/dft-road-casualty-statistics-severity-adjustment-figure-guidance.docx

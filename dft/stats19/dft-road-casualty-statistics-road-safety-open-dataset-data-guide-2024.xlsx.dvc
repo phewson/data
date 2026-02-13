@@ -1,0 +1,14 @@
+md5: 918f4379edcd0a6a01930f84868b8547
+frozen: true
+deps:
+- checksum: '"691c6440-11ab5"'
+  size: 72373
+  hash: md5
+  path: 
+    https://assets.publishing.service.gov.uk/media/691c6440e39a085bda43eed6/dft-road-casualty-statistics-road-safety-open-dataset-data-guide-2024.xlsx
+outs:
+- md5: 94e88ee7f735cccee3a09a89f279c1b3
+  size: 72373
+  hash: md5
+  path: 
+    dft-road-casualty-statistics-road-safety-open-dataset-data-guide-2024.xlsx

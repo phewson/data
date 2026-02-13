@@ -1,0 +1,16 @@
+outs:
+- md5: f2b9e7a9e165f65a3618196bb33db72f
+  size: 813916041
+  hash: md5
+  path: dft-road-casualty-statistics-casualty-1979-latest-published-year.csv
+  meta:
+    source_url: "https://www.gov.uk/government/statistical-data-sets/road-safety-open-data"
+    download_date: "2024-08-13"
+    publisher: "DfT"
+    license: "OGL v3"
+    timeframe: 1979 to 2022
+    format: csv
+    row_count: 11713001
+    column_count: 19
+
+

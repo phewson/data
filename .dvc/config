@@ -1,0 +1,4 @@
+[core]
+    remote = usb_remote
+['remote "usb_remote"']
+    url = /home/phewson/DATA/dvc_remote

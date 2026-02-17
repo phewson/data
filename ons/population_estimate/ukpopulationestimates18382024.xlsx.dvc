@@ -1,0 +1,20 @@
+# ONS dataset: UK population estimates 1838–2024
+# Source page:
+#   https://www.ons.gov.uk/peoplepopulationandcommunity/...
+# Checked on: 2026‑02‑17
+# Notes:
+#   - ONS serves this file directly (HTTP 200), no CDN redirect.
+#   - DVC import-url fails due to Cloudflare bot detection.
+#   - Manual download required; update URL if ONS reshuffles.
+outs:
+- md5: adf772476816735b4a921c7fdcace4b4
+  size: 1036698
+  hash: md5
+  path: ukpopulationestimates18382024.xlsx
+  meta:
+    page_url: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid2020
+    file_url: https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid2020/ukpopestimatesmid2020on2021geography.xls
+    release_date: 2025-09-26 09:30
+    licence: OGL Users should include a source accreditation to ONS - Source: Office for National Statistics.
+    release_number: MYE24UK
+

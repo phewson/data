@@ -15,6 +15,6 @@ outs:
     page_url: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid2020
     file_url: https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid2020/ukpopestimatesmid2020on2021geography.xls
     release_date: 2025-09-26 09:30
-    licence: OGL Users should include a source accreditation to ONS - Source: Office for National Statistics.
+    licence: OGL Users should include a source accreditation to ONS of the form Source Office for National Statistics.
     release_number: MYE24UK
 
